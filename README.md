@@ -1,2 +1,2 @@
 # LaTex-Guiding
-How to use latex
+How to use LaTex.
